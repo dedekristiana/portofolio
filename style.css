@@ -76,7 +76,7 @@ ul li {
 }
 
 .post-head h2,
-.fitur h3 {
+.fitur h2 {
   font-size: 22px;
   font-weight: 500;
   line-height: 50px;
@@ -120,7 +120,7 @@ ul li {
 
 .fitur-detail {
   display: flex;
-  gap: 15;
+  gap: 15px;
   margin-bottom: 30px;
   padding-bottom: 30px;
   border-bottom: 1px solid #e0e0e0;
@@ -150,7 +150,7 @@ ul li {
 
 .fitur-detail p {
   margin-top: 30px;
-  font-size: 30px;
+  font-size: 20px;
   color: #21243d;
 }
 
